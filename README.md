@@ -9,3 +9,15 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Model Name | Image | Original File | ~10MB .obj | Source | Bibtex |
 |------------|-------|---------------|------------|--------|--------|
 | Stanford Bunny | ![](data/stanford-bunny.png) | [.zip](data/stanford-bunny.zip) | [.obj](data/stanford-bunny.obj) | [Stanford University](http://graphics.stanford.edu/data/3Dscanrep/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/TurkL94)
+| Armadillo | missing | missing | missing | missing | missing |
+| Beetle | missing | missing | missing | missing | missing |
+| Cheburashka | missing | missing | missing | missing | missing |
+| Cow | missing | missing | missing | missing | missing |
+| Fandisk | missing | missing | missing | missing | missing |
+| Lucy | missing | missing | missing | missing | missing |
+| Ogre | missing | missing | missing | missing | missing |
+| Rocker Arm | missing | missing | missing | missing | missing |
+| Spot | missing | missing | missing | missing | missing |
+| Suzanne | missing | missing | missing | missing | missing |
+| XYZ Dragon | missing | missing | missing | missing | missing |
+
