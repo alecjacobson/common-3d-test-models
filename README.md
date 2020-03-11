@@ -15,6 +15,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Cow | missing | missing | missing | missing | missing |
 | Fandisk | missing | missing | missing | missing | missing |
 | Lucy | missing | missing | missing | missing | missing |
+| Nefertiti | missing | missing | missing | missing | missing |
 | Ogre | missing | missing | missing | missing | missing |
 | Rocker Arm | missing | missing | missing | missing | missing |
 | Spot | missing | missing | missing | missing | missing |
