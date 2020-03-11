@@ -15,7 +15,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Cow | missing | missing | missing | missing | missing |
 | Fandisk | missing | missing | missing | missing | missing |
 | Lucy | missing | missing | missing | missing | missing |
-| Nefertiti | missing | missing | missing | [Berlin Egyptian Museum](https://www.thingiverse.com/thing:3974391) | missing |
+| Nefertiti | ![](data/nefertiti.png) | missing | ![](data/nefertiti.obj) | [Berlin Egyptian Museum](https://www.thingiverse.com/thing:3974391) | missing |
 | Ogre | missing | missing | missing | missing | missing |
 | Rocker Arm | missing | missing | missing | missing | missing |
 | Spot | missing | missing | missing | missing | missing |
