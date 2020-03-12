@@ -22,4 +22,4 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Suzanne | missing | missing | missing | missing | missing |
 | XYZ Dragon | missing | missing | missing | missing | missing |
 | Woody/Gingerbread Man | ![](data/woody.png) | [.zip](data/woody.zip) | [.obj](data/woody.obj) | Scott Schaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
-
+[ Alligator | ![](data/alligator.png) | [.zip](data/alligator.zip) | [.obj](data/alligator.obj) | [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/images/alec-jacobson-thesis-2013.pdf) | [dblp](https://dblp.org/rec/bibtex/journals/tog/JacobsonBPS11)
