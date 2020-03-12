@@ -10,7 +10,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 |------------|-------|---------------|------------|--------|--------|
 | Stanford Bunny | ![](data/stanford-bunny.png) | [.zip](data/stanford-bunny.zip) | [.obj](data/stanford-bunny.obj) | [Stanford University](http://graphics.stanford.edu/data/3Dscanrep/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/TurkL94)
 | Armadillo | missing | missing | missing | missing | missing |
-| Beetle | ![](beetle.png) | missing*(quad mesh?) | [.obj](data/beetle.obj), [common alt .obj](data/beetle-alt.obj) | [Ivan Sutherland](https://blenderartists.org/t/ivan-sutherlands-1972-mesh/1162769) | missing |
+| Beetle | ![](data/beetle.png) | missing*(quad mesh?) | [.obj](data/beetle.obj), [common alt .obj](data/beetle-alt.obj) | [Ivan Sutherland](https://blenderartists.org/t/ivan-sutherlands-1972-mesh/1162769) | missing |
 | Cheburashka | ![](data/cheburashka.png) | [.zip](data/cheburashka.zip) | [obj](data/cheburashka.obj) | Ilya Baran(?) | [dblp](https://dblp.org/rec/bibtex/journals/tog/BaranP07) |
 | Cow | missing | missing | missing | missing | missing |
 | Fandisk | ![](data/fandisk.png) | missing scan data | [.obj](data/fandisk.obj) | Pratt & Whitney/Hughes Hoppe | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/Hoppe96) |
