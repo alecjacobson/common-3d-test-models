@@ -21,5 +21,5 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Spot | missing | missing | missing | missing | missing |
 | Suzanne | missing | missing | missing | missing | missing |
 | XYZ Dragon | missing | missing | missing | missing | missing |
-| Woody/Gingerbread Man | ![](data/woody.png) | [](data/woody.zip) | [](data/woody.obj) | Scott Shaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
+| Woody/Gingerbread Man | ![](data/woody.png) | [](data/woody.zip) | [](data/woody.obj) | Scott Schaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
 
