@@ -17,7 +17,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Lucy | missing | missing | missing | missing | missing |
 | Nefertiti | ![](data/nefertiti.png) | [.zip](data/nefertiti.zip),[.z01](data/nefertiti.z01),[.z02](data/nefertiti.z02),[.z03](data/nefertiti.z03),[.z04](data/nefertiti.z04) | [.obj](data/nefertiti.obj) | [Berlin Egyptian Museum](https://www.thingiverse.com/thing:3974391) | missing |
 | Ogre | missing | missing | missing | missing | missing |
-| Rocker Arm | missing | missing | missing | missing | missing |
+| Rocker Arm | ![](data/rocker-arm.png) | [](data/rocker-arm.zip) | [](data/rocker-arm.obj) | [INRIA](http://visionair.ge.imati.cnr.it:8080/ontologies/shapes/search.jsp) | missing |
 | Spot | missing | missing | missing | missing | missing |
 | Suzanne | missing | missing | missing | missing | missing |
 | XYZ Dragon | missing | missing | missing | missing | missing |
