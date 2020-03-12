@@ -18,6 +18,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Alligator | ![](data/alligator.png) | [.zip](data/alligator.zip) | [.obj](data/alligator.obj) | [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/images/alec-jacobson-thesis-2013.pdf) | [dblp](https://dblp.org/rec/bibtex/journals/tog/JacobsonBPS11)
 | Woody/Gingerbread Man | ![](data/woody.png) | [.zip](data/woody.zip) | [.obj](data/woody.obj) | Scott Schaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
 | Armadillo | missing | missing | missing | missing | missing |
+| Beast | missing | missing | missing | missing | missing |
 | Cow | missing | missing | missing | missing | missing |
 | Lucy | missing | missing | missing | missing | missing |
 | Ogre | missing | missing | missing | missing | missing |
