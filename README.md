@@ -33,3 +33,29 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Igea | missing | missing | missing | missing | missing |
 
 
+# Other lists and repositories
+
+
+- [List](https://all3dp.com/best-sites-free-stl-files-3d-printing/) of websites offering collections of 3D models.
+- [Thingiverse](http://www.thingiverse.com/)
+- [GrabCAD](https://grabcad.com/library)
+- [The Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/)
+- [Large Geometric Models Archive (Georgia Tech)](https://www.cc.gatech.edu/projects/large_models/)
+- [Keenan's 3D Model Repository](http://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/)
+- [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
+- [3D Scans of Statues](http://threedscans.com/)
+- [A Large Dataset of Object Scans](http://redwood-data.org/3dscan/index.html)
+- [CAD Model Datasets](http://edge.cs.drexel.edu/repository/)
+- https://www.shapenet.org/
+- http://modelnet.cs.princeton.edu/
+- https://www.themantissa.net/resources/
+- https://archive3d.net/
+- [Aim@Shape](http://visionair.ge.imati.cnr.it/ontologies/shapes/viewmodels.jsp)
+- [Rendering Resources](https://benedikt-bitterli.me/resources/)
+- [Human 3D Scans](https://ps.is.tuebingen.mpg.de/research_projects/faust-dataset)
+- [USTC 20712 Dataset for Parameterizations](http://staff.ustc.edu.cn/~fuxm/projects/ProgressivePara/dataset.html)
+- [USTC 5181 meshes](http://staff.ustc.edu.cn/~fuxm/projects/AHSP/index.html)
+- [MPI Dynamic FAUST human bodies](http://dfaust.is.tue.mpg.de/)
+ - [Facebook Reality Lab Replica](https://github.com/facebookresearch/Replica-Dataset)
+- [Smithsonian Institution](https://www.si.edu/search/3d?edan_q=&edan_fq%5B0%5D=metadata_usage%3ACC0%20OR%20media_usage%3ACC0)
+
