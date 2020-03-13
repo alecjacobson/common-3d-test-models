@@ -6,11 +6,12 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 
 ## List of Common 3D Test Models
 
-| Model Name | Image | Original File | ~10MB .obj | Source | First Appearance |
+| Model Name | Image | Original File | ~10MB .obj | Source | First Known Appearance |
 |------------|-------|---------------|------------|--------|--------|
 | Beetle | ![](data/beetle.png) | missing*(quad mesh?) | [.obj](data/beetle.obj), [common alt .obj](data/beetle-alt.obj) | [Ivan Sutherland](https://blenderartists.org/t/ivan-sutherlands-1972-mesh/1162769) | missing |
 | Cheburashka | ![](data/cheburashka.png) | [.zip](data/cheburashka.zip) | [obj](data/cheburashka.obj) | Ilya Baran(?) | [dblp](https://dblp.org/rec/bibtex/journals/tog/BaranP07) |
 | Fandisk | ![](data/fandisk.png) | missing scan data | [.obj](data/fandisk.obj) | Pratt & Whitney/Hughes Hoppe | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/Hoppe96) |
+| Horse | ![](data/horse.png) | [.zip](data/horse.zip) | [.obj](data/horse.obj) | [CyberWare](http://web.archive.org/web/20010126102500/https://www.cc.gatech.edu/projects/large_models/horse.html) | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/PraunFH00) |
 | Nefertiti | ![](data/nefertiti.png) | [.zip](data/nefertiti.zip),[.z01](data/nefertiti.z01),[.z02](data/nefertiti.z02),[.z03](data/nefertiti.z03),[.z04](data/nefertiti.z04) | [.obj](data/nefertiti.obj) | [Berlin Egyptian Museum](https://www.thingiverse.com/thing:3974391) | missing |
 | Ogre | ![](data/ogre.png) | [.zip](data/ogre.zip) | [,obj](data/ogre.obj) | Kiaran Ritchie | [dblp](https://dblp.uni-trier.de/rec/bibtex/journals/tog/LipmanLC08) |
 | Rocker Arm | ![](data/rocker-arm.png) | [.zip](data/rocker-arm.zip)* | [.obj](data/rocker-arm.obj) | [INRIA](http://visionair.ge.imati.cnr.it:8080/ontologies/shapes/search.jsp)* (does scan data exist?) | missing |
