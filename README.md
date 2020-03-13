@@ -27,5 +27,9 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Suzanne | missing | missing | missing | missing | missing |
 | XYZ Dragon | missing | missing | missing | missing | missing |
 | Bimba | missing | missing | missing | missing | missing |
-| Max Planck | missing | missing | missing | missing | missing |
+| Max Planck | ![](data/max-planck.png) | missing ([not full res?](https://gfx.cs.princeton.edu/proj/sugcon/models/)) | [.obj](data/max-planck.obj) | [MPI](https://gfx.cs.princeton.edu/proj/sugcon/models/) | missing |
+| Happy Buddha | missing | missing | missing | missing | missing |
+| Lucy | missing | missing | missing | missing | missing |
+| Igea | missing | missing | missing | missing | missing |
+
 
