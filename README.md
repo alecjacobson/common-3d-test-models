@@ -33,11 +33,12 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Igea | missing | missing | missing | missing | missing |
 
 
-# Other lists and repositories
+# Other lists and repositories of 3D models
 
 
 - [List](https://all3dp.com/best-sites-free-stl-files-3d-printing/) of websites offering collections of 3D models.
 - [Thingiverse](http://www.thingiverse.com/)
+- [thingi10k](https://ten-thousand-models.appspot.com)
 - [GrabCAD](https://grabcad.com/library)
 - [The Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/)
 - [Large Geometric Models Archive (Georgia Tech)](https://www.cc.gatech.edu/projects/large_models/)
