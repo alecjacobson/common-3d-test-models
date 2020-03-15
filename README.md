@@ -23,7 +23,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Teapot | ![](data/teapot.png) | [.zip](data/teapot.zip) | [.obj](data/teapot.obj) | [Martin Newell](ftp://ftp.funet.fi/pub/sci/graphics/packages/objects/teaset.tar.Z) | missing |
 | Alligator | ![](data/alligator.png) | [.zip](data/alligator.zip) | [.obj](data/alligator.obj) | [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/images/alec-jacobson-thesis-2013.pdf) | [dblp](https://dblp.org/rec/bibtex/journals/tog/JacobsonBPS11)
 | Woody/Gingerbread Man | ![](data/woody.png) | [.zip](data/woody.zip) | [.obj](data/woody.obj) | Scott Schaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
-| Beast | missing | missing | missing | missing | missing |
+| Beast | ![](beast.png)| [.zip](data/beast.zip) | [.obj](data/beast.obj) | Autodesk | [dblp](https://dblp.uni-trier.de/rec/bibtex/journals/cgf/WeberSLG07) |
 | Lucy | missing | missing | missing | missing | missing |
 | Suzanne | missing | missing | missing | missing | missing |
 | XYZ Dragon | missing | missing | missing | missing | missing |
