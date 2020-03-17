@@ -9,6 +9,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Model Name | Image | Original File | ~10MB .obj | Source | First Known Appearance |
 |------------|-------|---------------|------------|--------|--------|
 | Armadillo | ![](data/armadillo.png) | [.zip](data/armadillo.zip) | [.obj](data/armadillo.obj) | [Stanford](http://graphics.stanford.edu/data/3Dscanrep/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/KrishnamurthyL96) |
+| Beast | ![](data/beast.png)| [.zip](data/beast.zip) | [.obj](data/beast.obj) | Autodesk | [dblp](https://dblp.uni-trier.de/rec/bibtex/journals/cgf/WeberSLG07) |
 | Beetle | ![](data/beetle.png) | missing*(quad mesh?) | [.obj](data/beetle.obj), [common alt .obj](data/beetle-alt.obj) | [Ivan Sutherland](https://blenderartists.org/t/ivan-sutherlands-1972-mesh/1162769) | missing |
 | Cheburashka | ![](data/cheburashka.png) | [.zip](data/cheburashka.zip) | [obj](data/cheburashka.obj) | Ilya Baran(?) | [dblp](https://dblp.org/rec/bibtex/journals/tog/BaranP07) |
 | Cow | ![](data/cow.png) | [.zip](data/cow.zip) | [.obj](data/cow.obj) | [Viewpoint Animation Engineering / Sun Microsystems](https://gfx.cs.princeton.edu/proj/sugcon/models/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/journals/tog/DeCarloFRS03) |
@@ -23,7 +24,6 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Teapot | ![](data/teapot.png) | [.zip](data/teapot.zip) | [.obj](data/teapot.obj) | [Martin Newell](ftp://ftp.funet.fi/pub/sci/graphics/packages/objects/teaset.tar.Z) | missing |
 | Alligator | ![](data/alligator.png) | [.zip](data/alligator.zip) | [.obj](data/alligator.obj) | [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/images/alec-jacobson-thesis-2013.pdf) | [dblp](https://dblp.org/rec/bibtex/journals/tog/JacobsonBPS11)
 | Woody/Gingerbread Man | ![](data/woody.png) | [.zip](data/woody.zip) | [.obj](data/woody.obj) | Scott Schaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
-| Beast | ![](beast.png)| [.zip](data/beast.zip) | [.obj](data/beast.obj) | Autodesk | [dblp](https://dblp.uni-trier.de/rec/bibtex/journals/cgf/WeberSLG07) |
 | Lucy | missing | missing | missing | missing | missing |
 | Suzanne | missing | missing | missing | missing | missing |
 | XYZ Dragon | missing | missing | missing | missing | missing |
