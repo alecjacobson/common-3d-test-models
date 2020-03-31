@@ -22,12 +22,12 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Rocker Arm | ![](data/rocker-arm.png) | [.zip](data/rocker-arm.zip)* | [.obj](data/rocker-arm.obj) | [INRIA](http://visionair.ge.imati.cnr.it:8080/ontologies/shapes/search.jsp)* (does scan data exist?) | missing |
 | Spot | ![](data/spot.png) | [.zip](data/spot.zip) | [.obj](data/spot.obj) | [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/#spot) | missing |
 | Stanford Bunny | ![](data/stanford-bunny.png) | [.zip](data/stanford-bunny.zip) | [.obj](data/stanford-bunny.obj) | [Stanford University](http://graphics.stanford.edu/data/3Dscanrep/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/TurkL94)
+| Suzanne | ![](data/suzanne.png) | [.zip](data/suzanne.zip) | [.obj](data/suzanne.obj) | Blender | missing |
 | Teapot | ![](data/teapot.png) | [.zip](data/teapot.zip) | [.obj](data/teapot.obj) | [Martin Newell](ftp://ftp.funet.fi/pub/sci/graphics/packages/objects/teaset.tar.Z) | missing |
+| XYZ Dragon |  ![](data/xyzrgb_dragon.png)  |  [.zip](data/xyzrgb_dragon.zip)  |  [.obj](data/xyzrgb_dragon.obj)  | [Stanford](http://graphics.stanford.edu/data/3Dscanrep/)  | missing |
 | Alligator | ![](data/alligator.png) | [.zip](data/alligator.zip) | [.obj](data/alligator.obj) | [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/images/alec-jacobson-thesis-2013.pdf) | [dblp](https://dblp.org/rec/bibtex/journals/tog/JacobsonBPS11)
 | Woody/Gingerbread Man | ![](data/woody.png) | [.zip](data/woody.zip) | [.obj](data/woody.obj) | Scott Schaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
 | Lucy | missing | missing | missing | missing | missing |
-| Suzanne | ![](data/suzanne.png) | [.zip](data/suzanne.zip) | [.obj](data/suzanne.obj) | Blender | missing |
-| XYZ Dragon |  ![](data/xyzrgb_dragon.png)  |  [.zip](data/xyzrgb_dragon.zip)  |  [.obj](data/xyzrgb_dragon.obj)  | [Stanford](http://graphics.stanford.edu/data/3Dscanrep/)  | missing |
 | Bimba | missing | missing | missing | missing | missing |
 | Lucy | missing | missing | missing | missing | missing |
 | Igea | missing | missing | missing | missing | missing |
