@@ -27,7 +27,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Woody/Gingerbread Man | ![](data/woody.png) | [.zip](data/woody.zip) | [.obj](data/woody.obj) | Scott Schaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
 | Lucy | missing | missing | missing | missing | missing |
 | Suzanne | ![](data/suzanne.png) | [.zip](data/suzanne.zip) | [.obj](data/suzanne.obj) | Blender | missing |
-| XYZ Dragon | missing | missing | missing | missing | missing |
+| XYZ Dragon |  ![](data/xyzrgb_dragon.png)  |  [.zip](data/xyzrgb_dragon.zip)  |  [.obj](data/xyzrgb_dragon.obj)  | [Stanford](http://graphics.stanford.edu/data/3Dscanrep/)  | missing |
 | Bimba | missing | missing | missing | missing | missing |
 | Lucy | missing | missing | missing | missing | missing |
 | Igea | missing | missing | missing | missing | missing |
