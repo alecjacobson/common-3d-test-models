@@ -45,6 +45,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 - [Keenan's 3D Model Repository](http://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/)
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
 - [3D Scans of Statues](http://threedscans.com/)
+- [3D Model Haven](https://3dmodelhaven.com/models/)
 - [A Large Dataset of Object Scans](http://redwood-data.org/3dscan/index.html)
 - [CAD Model Datasets](http://edge.cs.drexel.edu/repository/)
 - https://www.shapenet.org/
