@@ -42,7 +42,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 - [Large Geometric Models Archive (Georgia Tech)](https://www.cc.gatech.edu/projects/large_models/)
 - [Keenan's 3D Model Repository](http://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/)
 - [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
-- [3D Scans of Statues](http://threedscans.com/)
+- [3D Scans of Statues and Crabs](http://threedscans.com/)
 - [3D Model Haven](https://3dmodelhaven.com/models/)
 - [A Large Dataset of Object Scans](http://redwood-data.org/3dscan/index.html)
 - [CAD Model Datasets](http://edge.cs.drexel.edu/repository/)
@@ -58,3 +58,4 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 - [MPI Dynamic FAUST human bodies](http://dfaust.is.tue.mpg.de/)
  - [Facebook Reality Lab Replica](https://github.com/facebookresearch/Replica-Dataset)
 - [Smithsonian Institution](https://www.si.edu/search/3d?edan_q=&edan_fq%5B0%5D=metadata_usage%3ACC0%20OR%20media_usage%3ACC0)
+- [3D scans by artec](https://www.artec3d.com/3d-models)
