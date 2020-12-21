@@ -29,7 +29,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Woody/Gingerbread Man | ![](data/woody.png) | [.zip](data/woody.zip) | [.obj](data/woody.obj) | Scott Schaefer | [dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06) |
 | Lucy | ![](data/lucy.png)  |  [.zip](data/lucy.zip),[.z01](data/lucy.z01),[.z02](data/lucy.z02),[.z03](data/lucy.z03),[.z04](data/lucy.z04) ,[.z05](data/lucy.z05)  |  [.obj](data/lucy.obj)  |  [Stanford University](http://graphics.stanford.edu/data/3Dscanrep/)  | missing |
 | Bimba | missing | missing | missing | missing | missing |
-| Igea | missing | missing | missing | missing | missing |
+| Igea | ![](data/igea.png) | [.zip](data/igea.zip) | [.obj](data/igea.obj) | Cyberware | missing |
 
 # Other lists and repositories of 3D models
 
