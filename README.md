@@ -57,5 +57,5 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 - [USTC 5181 meshes](http://staff.ustc.edu.cn/~fuxm/projects/AHSP/index.html)
 - [MPI Dynamic FAUST human bodies](http://dfaust.is.tue.mpg.de/)
  - [Facebook Reality Lab Replica](https://github.com/facebookresearch/Replica-Dataset)
-- [Smithsonian Institution](https://www.si.edu/search/3d?edan_q=&edan_fq%5B0%5D=metadata_usage%3ACC0%20OR%20media_usage%3ACC0)
+- [Smithsonian Institution](https://www.si.edu/search/3d-models)
 - [3D scans by artec](https://www.artec3d.com/3d-models)
