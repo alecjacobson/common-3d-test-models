@@ -59,3 +59,4 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
  - [Facebook Reality Lab Replica](https://github.com/facebookresearch/Replica-Dataset)
 - [Smithsonian Institution](https://www.si.edu/search/3d-models)
 - [3D scans by artec](https://www.artec3d.com/3d-models)
+- [Malopolska Museum heritage objects](https://sketchfab.com/WirtualneMuzeaMalopolski)
