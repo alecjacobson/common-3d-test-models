@@ -30,7 +30,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 | Lucy | ![](data/lucy.png)  |  [.zip](data/lucy.zip),[.z01](data/lucy.z01),[.z02](data/lucy.z02),[.z03](data/lucy.z03),[.z04](data/lucy.z04) ,[.z05](data/lucy.z05)  |  [.obj](data/lucy.obj)  |  [Stanford University](http://graphics.stanford.edu/data/3Dscanrep/)  | missing |
 | Bimba | ![](data/bimba.png) | missing | missing | missing | missing |
 | Igea | ![](data/igea.png) | [.ply](data/igea.ply) | [.obj](data/igea.obj) | Cyberware | missing |
-| Homer | ![](data/homer.png) | [.zip](data/homer.zip) | [.obj](data/homer.obj) | Unclear; Pierre Alliez sent this .zip, doesn't recall soucre | |
+| Homer | ![](data/homer.png) | [.zip](data/homer.zip) | [.obj](data/homer.obj) | Unclear; Pierre Alliez sent this .zip, doesn't recall soucre | missing |
 
 # Other lists and repositories of 3D models
 
