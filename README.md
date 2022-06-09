@@ -62,3 +62,5 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 - [3D scans by artec](https://www.artec3d.com/3d-models)
 - [Malopolska Museum heritage objects](https://sketchfab.com/WirtualneMuzeaMalopolski)
 - [threedscans.com](http://threedscans.com/)
+- [Statue Model Repository](https://lgg.epfl.ch/statues_dataset.php)
+- [Real World Textured Things (RWTT)](https://texturedmesh.isti.cnr.it)
