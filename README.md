@@ -64,3 +64,4 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 - [threedscans.com](http://threedscans.com/)
 - [Statue Model Repository](https://lgg.epfl.ch/statues_dataset.php)
 - [Real World Textured Things (RWTT)](https://texturedmesh.isti.cnr.it)
+- [Scan the World initiative](https://www.myminifactory.com/category/scan-the-world)
