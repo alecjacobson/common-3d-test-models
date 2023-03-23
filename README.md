@@ -65,3 +65,4 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 - [Statue Model Repository](https://lgg.epfl.ch/statues_dataset.php)
 - [Real World Textured Things (RWTT)](https://texturedmesh.isti.cnr.it)
 - [Scan the World initiative](https://www.myminifactory.com/category/scan-the-world)
+- [Objaverse: A Universe of Annotated 3D Objects](https://objaverse.allenai.org/)
