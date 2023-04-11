@@ -10,7 +10,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 |------------|-------|---------------|------------|--------|--------|
 | Armadillo | ![](data/armadillo.png) | [.zip](data/armadillo.zip) | [.obj](data/armadillo.obj) | [Stanford](http://graphics.stanford.edu/data/3Dscanrep/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/KrishnamurthyL96) |
 | Beast | ![](data/beast.png)| [.zip](data/beast.zip) | [.obj](data/beast.obj) | Autodesk | [dblp](https://dblp.uni-trier.de/rec/bibtex/journals/cgf/WeberSLG07) |
-| Beetle | ![](data/beetle.png) | missing*(quad mesh?) | [.obj](data/beetle.obj), [common alt .obj](data/beetle-alt.obj) | [Ivan Sutherland](https://blenderartists.org/t/ivan-sutherlands-1972-mesh/1162769) | missing |
+| Beetle | ![](data/beetle.png) | missing*(quad mesh?) | [.obj](data/beetle.obj), [common alt .obj](data/beetle-alt.obj) | [Ivan Sutherland](https://blenderartists.org/t/ivan-sutherlands-1972-mesh/1162769) | [1974?](https://doi.org/10.1145/356625.356626) |
 | Cheburashka | ![](data/cheburashka.png) | [.zip](data/cheburashka.zip) | [obj](data/cheburashka.obj) | Ilya Baran(?) | [dblp](https://dblp.org/rec/bibtex/journals/tog/BaranP07) |
 | Cow | ![](data/cow.png) | [.zip](data/cow.zip) | [.obj](data/cow.obj) | [Viewpoint Animation Engineering / Sun Microsystems](https://gfx.cs.princeton.edu/proj/sugcon/models/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/journals/tog/DeCarloFRS03) |
 | Fandisk | ![](data/fandisk.png) | [.m (Hoppe Mesh format)](data/fandisk.m) | [.obj](data/fandisk.obj) | CAD part Pratt & Whitney/Hughes Hoppe | [dblp](https://dblp.org/rec/conf/siggraph/HoppeDDHJMSS94.html) |
